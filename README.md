@@ -1,7 +1,7 @@
 # matanga-apps
 projet scolaire: site de e-commerce nommée matanga
 
-#Instruction pour faire fonctionner le projet
+Instruction pour faire fonctionner le projet
 
 # **PREREQUIS :**
 a. **PHP 7.4 OU +**
